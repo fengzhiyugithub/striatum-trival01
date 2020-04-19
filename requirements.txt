@@ -1,0 +1,8 @@
+six
+numpy
+scipy
+scikit-learn
+matplotlib
+
+pylint
+tox
